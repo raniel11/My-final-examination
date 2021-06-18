@@ -1,7 +1,7 @@
-1  Name: Raniel Hila Gipit
-2  Year/Sec: BSIT-2E
-3  Gender: Male
-4  Age: 20
-5  Birthday: January 11, 2001
-6  Address: Brgy Gate purok 5 Bulan, Sorsogon
-7  Contact: 09510166981
+  Name: Raniel Hila Gipit
+  Year/Sec: BSIT-2E
+  Gender: Male
+  Age: 20
+  Birthday: January 11, 2001
+  Address: Brgy Gate purok 5 Bulan, Sorsogon
+  Contact: 09510166981
